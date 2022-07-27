@@ -63,7 +63,7 @@ func getPowered(target string) string{
     if len(xpowered) > 1 {
         return string(xpowered)
     }
-    return "-"
+    return "hidden"
 }
 
 func getServer(target string) string {
@@ -72,7 +72,7 @@ func getServer(target string) string {
     if len(server) > 1 {
         return string(server)
     }
-    return "-"
+    return "hidden"
 }
 
 func xframeOptions(target string) bool {

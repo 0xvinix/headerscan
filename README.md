@@ -8,7 +8,7 @@
   <a href="#features">✨ Features</a>
 </p>
 
-Make sure a website has all basic security headers.
+[🕷️] Make sure a website has all basic security headers.
 
  ## Installation 
 
@@ -33,10 +33,10 @@ go build
 
 ## Features
 
-- Check for web server/technology exposure
-- Check X-Frame-Options
-- Check X-XSS-Protection
-- Check Strict-Transport-Security 
-- Check X-Content-Type-Options
-- Check Referrer-Policy
-- Check Content-Security-Policy
+- [✔️] Check for web server/technology exposure
+- [✔️] Check X-Frame-Options
+- [✔️] Check X-XSS-Protection
+- [✔️] Check Strict-Transport-Security 
+- [✔️] Check X-Content-Type-Options
+- [✔️] Check Referrer-Policy
+- [✔️] Check Content-Security-Policy
